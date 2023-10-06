@@ -1,2 +1,2 @@
 # sqload
-Minimalistic solution to a small problem.
+Minimalistic solution for a small problem.
